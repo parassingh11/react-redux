@@ -10,7 +10,7 @@ function App(props) {
     <div className="App">
       <List />
       <div>
-      <h2>Add a new article</h2>
+      <h2>Add a new article here</h2>
       <Form />
     </div>
     </div>
